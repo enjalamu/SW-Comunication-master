@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <peli>
+    <titulo>Harry Pottas</titulo>
+    <director>JK Rowling</director>
+    <genero>Misterio</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Hobbit</titulo>
+    <director>Peter Jackson</director>
+    <genero>Accion</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>El senyor</titulo>
+    <director>Brad Pic</director>
+    <genero>SEX</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>asdas</titulo>
+    <director>Brad Pic</director>
+    <genero>SEX</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>sada</titulo>
+    <director>asdasd</director>
+    <genero>sada</genero>
+    <imagen>defecto.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>df</titulo>
+    <director>fdf</director>
+    <genero>sdfsd</genero>
+    <imagen>defecto.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>asd</titulo>
+    <director>asdas</director>
+    <genero>asd</genero>
+    <imagen>defecto.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>gffdg</titulo>
+    <director>dfgdf</director>
+    <genero>fdg</genero>
+    <imagen>hobbit.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>sasd</titulo>
+    <director>asda</director>
+    <genero>dasd</genero>
+    <imagen>maxresdefault.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>sdsad</titulo>
+    <director>sadas</director>
+    <genero>asdas</genero>
+    <imagen>tigre.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>sadaa</titulo>
+    <director>das</director>
+    <genero>asdsa</genero>
+    <imagen>defecto.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Lego</titulo>
+    <director>WarnerBros</director>
+    <genero>Juguetes</genero>
+    <imagen>294231.jpg-c_300_300_x-f_jpg-q_x-xxyxx.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Walle</titulo>
+    <director>Pixar</director>
+    <genero>Infantil</genero>
+    <imagen>Walle-poster.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Sing</titulo>
+    <director>Ilumination</director>
+    <genero>Musical</genero>
+    <imagen>sing-3.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Del Reves</titulo>
+    <director>Pixar</director>
+    <genero>Infantil</genero>
+    <imagen>InsideOut2.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Vengadores</titulo>
+    <director>Marvel</director>
+    <genero>Accion</genero>
+    <imagen>vengadores.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Big hero</titulo>
+    <director>Disney</director>
+    <genero>Infantil</genero>
+    <imagen>big6.png</imagen>
+  </peli>
+  <peli>
+    <titulo>Gru Mi villano favorito</titulo>
+    <director>Ilumination</director>
+    <genero>Animado</genero>
+    <imagen>gru.jpg</imagen>
+  </peli>
+  <peli>
+    <titulo>Spiderman</titulo>
+    <director>Sony</director>
+    <genero>Accion</genero>
+    <imagen>spiderman.png</imagen>
+  </peli>
+</peliculas>
